@@ -1,0 +1,34 @@
+.header {
+  font-family: verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
+}
+
+.logo span{
+  color: mediumaquamarine;
+}
+
+/*Main Container*/
+.large {
+  width: 630px;
+  border: solid;
+}
+
+.medium {
+  width: 300px;
+}
+
+.column.small {
+  widht: 240px;
+}
+.story {
+  display: flex;
+}
